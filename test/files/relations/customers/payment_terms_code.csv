@@ -1,0 +1,34 @@
+old_value,Terms Code Desc,new_value,Description
+0,NET ON RECEIPT,NET0,Payment 0 days after invoice date
+1,1% 10 NET 11,ZZ-REVIEW,ZZ-Review Payment Term
+12,FAST PAY,ZZ-REVIEW,ZZ-Review Payment Term
+2,2% 10  NET 11,ZZ-REVIEW,ZZ-Review Payment Term
+3,3% 10  NET 11,ZZ-REVIEW,ZZ-Review Payment Term
+4,1.5% 10  NET 11,ZZ-REVIEW,ZZ-Review Payment Term
+6,NET 10 EOM,NET0,Payment 0 days after invoice date
+7,NET 45 DAYS,NET45,Payment 45 days after invoice date
+8,NET 60 DAYS,NET60,Payment 60 days after invoice date
+9,NO CHARGE SALE,ZZ-REVIEW,ZZ-Review Payment Term
+A,PMT IN ADVANCE,CWO,Cash with Order
+B,LETTR OF CREDIT,FIN-OTHER,Finance- Other
+C,PMT ON DELIVERY,COD,Cash on Delivery
+COD,COD TERMS,COD,Cash on Delivery
+CRC,CREDIT CARD POS,NET0,Payment 0 days after invoice date
+D,SIGHT DRAFT,ZZ-REVIEW,ZZ-Review Payment Term
+DB,CASH ONLY COD,COD,Cash on Delivery
+F,NET 15 DAYS,NET15,Payment 15 days after invoice date
+H,CASH SALE,CWO,Cash with Order
+L,LEASE ACCOUNTS,ZZ-REVIEW,ZZ-Review Payment Term
+M,MORTGAGE EQUIP.,ZZ-REVIEW,ZZ-Review Payment Term
+N,NET 10 DAYS,NET10,Payment 10 days after invoice date
+OOB,OUT OF BUSINESS (COIN LIST),ZZ-REVIEW,ZZ-Review Payment Term
+P,PAID IN FULL,ZZ-REVIEW,ZZ-Review Payment Term
+S,SPECIAL TERMS,ZZ-REVIEW,ZZ-Review Payment Term
+SP,SEE AR SUPERVISOR,ZZ-REVIEW,ZZ-Review Payment Term
+T,NET 30 DAYS,NET30,Payment 30 days after invoice date
+U,BAL ON START-UP,COD,Cash on Delivery
+V,COD + BALANCE,COD,Cash on Delivery
+X,SPECIAL N10,NET10,Payment 10 days after invoice date
+Y,UCC FINANCING,FIN-OTHER,Finance- Other
+YR,NET 365 DAYS (CONSIGNMENT),ZZ-REVIEW,ZZ-Review Payment Term
+Z,PREVIOUSLY INV,ZZ-REVIEW,ZZ-Review Payment Term
